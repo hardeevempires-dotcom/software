@@ -1,0 +1,6 @@
+{
+  "name": "BuiltAura AI Business Operating System",
+  "description": "Unified Enterprise AI Business Operating System featuring multi-tenant autonomous AI agents, executive assistant, event-driven orchestration, CRM, client/employee portals, vector knowledge bases, RBAC, and microservice infrastructure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
